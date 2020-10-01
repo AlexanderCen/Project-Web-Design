@@ -1,0 +1,27 @@
+.logo{
+    background-image: url(../asset/Beaudeii.png);
+    background-size: 100% 100%;
+    height: 120px;
+    width: 130px;
+    margin-top: 5px;
+}
+
+.box1{
+
+
+    margin:0;
+    height: 500px;
+    padding-top: 50px;
+    
+ }
+
+
+.home{
+    background-image: url(../asset/home.png);
+    background-size: 100% 100%;
+    height: 90px;
+    width: 90px;
+    margin-top: 15px;
+    margin-right: 10px;
+     
+ }
